@@ -1,4 +1,10 @@
+/**
+ * @author Soledad Soto Ruiz
+ * @version 1.1
+ */
+
 public class calificaciones {
+    
 
     static String veredicto(String valor1, String valor2){
         if (valor1.equals(valor2)){
