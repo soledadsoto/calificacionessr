@@ -1,6 +1,6 @@
 public class calificaciones {
 
-    static String veredicto(String valor1, String valor2){
+    private static String veredicto(String valor1, String valor2){
         if (valor1.equals(valor2)){
             return "Perfecto. Has tenido buen criterio. ";
         }
